@@ -14,8 +14,8 @@ h1 {
 }
 
 .videorunestats{
-	margin-left:30%;
-	width:30%;
+	margin-left:25%;
+	width:50%;
 	height:50%;
 }
 .c-header {
@@ -210,4 +210,12 @@ ol, ul {
 }
 .c-about__title {
     align-self: flex-start;
+}
+
+.figmapics{
+	display:flex;
+}
+.figmasrcpic{
+	width:50%;
+	margin-left:25%;
 }
